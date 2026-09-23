@@ -111,33 +111,32 @@ modern interface for browsing products.
 
 **Tech:** HTML • CSS • JavaScript
 
-<a href="https://github.com/bamanuel977-afk">
+<a href="https://github.com/bamanuel977-afk/first-project_2">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 ---
 
-## 📚 Interactive Exam Browser
+## 📚 INCREMENT AND DECREMENT BUTTON
 
-A C++ data structure project that manages exam questions using a
-**doubly linked list**.
+A beuitiful button that increment and decrement a number
+**JavaScript**.
 
-**Tech:** C++ • Data Structures • Doubly Linked List
+**Tech:** js • HTML 
 
-<a href="https://github.com/bamanuel977-afk">
+<a href="https://github.com/bamanuel977-afk/button-js">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 ---
 
-## 👨‍💼 Employee Management System
+## 👨‍💼 Advanced PORTIFOLIO
 
-A Java-based application for managing employee information and practicing
-object-oriented programming concepts.
+using a HTML.CSS.JAVAScript and for backend form
+spree to accept contact forms
+**Tech:** HTML . CSS .JAVASCRIPT
 
-**Tech:** Java • OOP
-
-<a href="https://github.com/bamanuel977-afk">
+<a href="https://github.com/bamanuel977-afk/PORTFOLIO">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 

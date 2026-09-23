@@ -140,19 +140,7 @@ spree to accept contact forms
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bamanuel977-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamanuel977-afk&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+----
 
 # 🔥 Contribution Streak
 
